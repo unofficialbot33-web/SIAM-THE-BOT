@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "SIAM X BOT",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,14 +11,14 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "─꯭─⃝‌‌SIAM X BOT",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
-    "100044713412032"
+    "100088957777774",
+    "61553103465893",
+    "61552708859303"
   ],
   "NDH": ["100044713412032"],
   "adminOnly": false,
